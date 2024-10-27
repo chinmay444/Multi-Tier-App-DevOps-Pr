@@ -2,7 +2,6 @@
 This is for cicd pipeline purpose.
 
 # Application Architecture:
-Implementing Continuous Integration (CI)
 
 A front-end web app in Python which lets you vote between two options
 
