@@ -3,6 +3,8 @@ This is for cicd pipeline purpose.
 
 # Application Architecture:
 
+https://github.com/chinmay444/example-voting-app
+
 A front-end web app in Python which lets you vote between two options
 
 A Redis which collects new votes
